@@ -3,14 +3,14 @@ Taller
 
 
 CUSTOMER TEST
-![image](https://user-images.githubusercontent.com/67887869/131067181-634f332e-c141-449c-96a9-4e659fc2589b.png)
+![image](https://user-images.githubusercontent.com/77032229/150048623-f5c779bb-f77c-40d1-91c0-24bf3674d822.png)
 
 MOVIERENTAL TEST
-![image](https://user-images.githubusercontent.com/67887869/131067401-742830a6-8594-47ff-ae52-0ec2ef145117.png)
+![image](https://user-images.githubusercontent.com/77032229/150048582-fba11dd8-5ac5-4a53-b6b1-717f16e1a9b5.png)
 
 MOVIE TEST
-![image](https://user-images.githubusercontent.com/67887869/131067472-0eb1a317-70af-414e-998e-8ad9060c8102.png)
+![image](https://user-images.githubusercontent.com/77032229/150048639-4757bab4-5a49-4cf5-8f99-0d5de24ff1cf.png)
 
 VIDEOGAMERENTAL TEST
-![image](https://user-images.githubusercontent.com/67887869/131067550-28324b30-5ff0-4a76-9084-35e2d3744388.png)
+![image](https://user-images.githubusercontent.com/77032229/150048668-1f9cd636-eda7-47ae-ab2d-859833363632.png)
 
